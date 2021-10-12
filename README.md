@@ -1,6 +1,6 @@
 # GB_National_Grid_Data
 
-Great Britain grid data from XXX to XXX.
+Great Britain grid data from May 2011 to October 2021.
 
 ## Acknowledgment
 
